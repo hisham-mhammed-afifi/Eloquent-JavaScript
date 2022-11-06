@@ -26,6 +26,10 @@ true && true // true
 true || false // true
 false || false // false
 
+// - ternary operator
+true ? 1 : 2 // 1
+false ? 1 : 2 // 2
+
 // ## Empty Values
 null, undefined
 
@@ -51,12 +55,21 @@ null || "user" // user
 //#endregion
 
 //#region Ch03
+//...................................
+//    Ch03 - Eloquent JavaScript
+//...................................
 //#endregion
 
 //#region Ch04
+//...................................
+//    Ch04 - Eloquent JavaScript
+//...................................
 //#endregion
 
 //#region Ch05
+//...................................
+//    Ch05 - Eloquent JavaScript
+//...................................
 //#endregion
 
 //#region Ch06
